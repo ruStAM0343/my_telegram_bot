@@ -2,7 +2,7 @@ import httpx
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "TOKENINGIZNI_BU_YERGA_YOZING"
+TOKEN = "7795482122:AAFwOsk5cDuaI6SbXf-wylpjoTiGhS2cCdA"
 THINGSPEAK_CHANNEL_ID = "2973404"
 THINGSPEAK_READ_API_KEY = "UB9BRI5LBT0HWAUF"
 
